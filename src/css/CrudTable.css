@@ -1,0 +1,23 @@
+table {
+  /*table-layout: fixed;*/
+  width: 97%;
+  max-width: 450px;
+  /*border-collapse: collapse;*/
+  border: 3px solid;
+}
+
+
+thead th{
+  width:25%;
+  border: 1px solid #20275C;
+}
+tbody tr,
+tbody td
+{
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #20275C;
+}
+th, td {
+  padding: 15px;
+}

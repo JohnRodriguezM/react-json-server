@@ -1,0 +1,14 @@
+form .input{
+  max-width: 200px;
+  height:35px;
+  margin-top: 10px;
+}
+
+form .button{
+  margin: 10px 10px 10px;
+}
+
+form input[type = "reset"]:active,
+form input[type = "submit"]:active{
+  transform:scale(.8)
+}

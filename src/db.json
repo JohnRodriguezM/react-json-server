@@ -1,0 +1,16 @@
+{
+  "ciudadanos": [
+    {
+      "firstN": "john",
+      "lastN": "Rodriguez",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "firstN": "sebastian",
+      "lastN": "mendez",
+      "gender": "female",
+      "id": 2
+    }
+  ]
+}
